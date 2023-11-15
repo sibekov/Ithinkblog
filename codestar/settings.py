@@ -32,7 +32,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-sibekov-ithinkblog-qs1nqwq0uu.us2.codeanyapp.com',
-                 'https://blogousapp-5a2637e623f8.herokuapp.com', 'localhost',]
+                 'blogousapp-5a2637e623f8.herokuapp.com', 'localhost',]
 
 
 # Application definition
